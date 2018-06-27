@@ -18,13 +18,13 @@ or
 Simple example which converts colored image to grayscle. Its easy to work with grayscale image than colored image. So its good practice to convert an image to grayscle.
 [Read more...](https://pythonprogramming.net/loading-images-python-opencv-tutorial/)
 
-#### contours_example.py
-Detecting contours in an image and drawing it.
-[Read more...](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contours_begin/py_contours_begin.html#contours-getting-started)
-
 #### binary_color_image.py
 Converting an image to binary color image i.e complete black and white.
 [Read more...](https://stackoverflow.com/questions/7624765/converting-an-opencv-image-to-black-and-white)
+
+#### contours_example.py
+Detecting contours in an image and drawing it.
+[Read more...](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contours_begin/py_contours_begin.html#contours-getting-started)
 
 ***
 
